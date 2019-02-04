@@ -1,3 +1,3 @@
-# numeric-calculus
+# numerical-calculus
 Functions programmed during my numeric calculus classes during my university graduate using matlab
 
